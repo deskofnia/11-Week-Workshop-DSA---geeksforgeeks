@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+ 
 int maxDistance(int arr[], int n)
 {
     unordered_map<int, int> mp;

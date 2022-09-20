@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
 bool check(vector<long long> A, vector<long long> B, int N)
 {
 	unordered_map<long long, long long> mp;
